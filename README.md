@@ -26,29 +26,29 @@ Finally, apply this technique to solving [this problem](https://leetcode.com/pro
 
 Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n^2) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
 
-1. Watch this video to learn the approach and what types of problems benefit from this technique.
-2. Apply that same approach to solve this problem.
-3. Finally, see if you can figure how to solve this problem. At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
+1. Watch [this video]() to learn the approach and what types of problems benefit from this technique.
+2. Apply that same approach to solve [this problem]().
+3. Finally, see if you can figure how to solve [this problem](). At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
 
 Now, let's get into some of the more efficient O(nlogn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
 
-Watch this video for an overview of merge sort.
+Watch [this video]() for an overview of merge sort.
 
-If this is the first time you're seeing this, watch this video for a more in depth walkthrough.
+If this is the first time you're seeing this, [watch this video]() for a more in depth walkthrough.
 
-Finally, code up the solution here
+Finally, code up the solution [here]().
 
 ## Quick Sort
 
 Quicksort is another O(nlogn) relies on the concept of a "pivot".
 
-Watch this video for an overview of quick sort.
+Watch [this video]() for an overview of quick sort.
 
-If this is the first time you're seeing this, watch this video for a more in depth walkthrough.
+If this is the first time you're seeing this, watch [this video]() for a more in depth walkthrough.
 
-Finally, code up the solution here.
+Finally, code up the solution [here]().
 
 <br>
 
@@ -56,35 +56,26 @@ Finally, code up the solution here.
 
 We are about to learn about a couple of data structures that are based on a Node class. At first glance, it feels like these data structures have very little to do with day to day engineering. So, before we dive into these structures, let's learn about why learning these does actually help improve you underlying engineering skills.
 
-Watch this video, where our founder Sophie Novati explains: what's the point of studying node based data structures?!
+Watch [this video](), where our founder Sophie Novati explains: _what's the point of studying node based data structures?!_
 
 🔗 Linked List
 
 Linked lists are the most simple type of Node data structure. Each Node in a linked list holds a value as well was a pointer to the next Node in the list. Watch the following video for an intro to the Linked List class.
 
-Watch this video, where our founder Sophie Novati explains: why Linked Lists are like scavenger hunts.
+Watch [this video](), where our founder Sophie Novati explains: _why Linked Lists are like scavenger hunts._
 
 Basic Linked List
 
-Watch this video to get an overview of the linked list data structure.
-
-Read this article to learn the difference between an array and a linked list.
-
-Watch this video to understand is its advantages (and disadvantages) compared to the array data structure.
-
-If you are relatively new to the Linked List data structure, do the following problems as practice:
-
-Practice creating the basic linked list here.
-
-Practice removing an element from a linked list here.
-
-Practice removing an element, given an index, from a linked list here.
-
-Practice adding an element, given an index, from a linked list here.
-
-Practice iterating through and searching for a value in a linked list here.
-
-Solve this problem on Leetcode to delete a node from a linked list.
+1. Watch [this video]() to get an overview of the linked list data structure.
+2. Read this article to learn the difference between an array and a linked list.
+3. Watch this video to understand is its advantages (and disadvantages) compared to the array data structure.
+4. If you are relatively new to the Linked List data structure, do the following problems as practice:
+    - Practice creating the basic linked list here.
+    - Practice removing an element from a linked list here.
+    - Practice removing an element, given an index, from a linked list here.
+    - Practice adding an element, given an index, from a linked list here.
+    - Practice iterating through and searching for a value in a linked list here.
+5. Solve this problem on Leetcode to delete a node from a linked list.
 
 Detecting Cycles
 
