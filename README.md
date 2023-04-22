@@ -3,35 +3,32 @@
 ## N^2 runtime sorting algorithms
 
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
-<ul>
-<li>[Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)</li>
-<li>[Selection Sort]()</li>
-<li>[Bubble Sort]()</li>
-</ul>
-  
-Make sure you understand all the runtimes in the chart at the bottom of [this link]().
 
-Finally, code up the solution to each approach [here]().
+- [Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
+- [Selection Sort](https://www.youtube.com/watch?v=g-PGLbMth_g&feature=youtu.be)
+- [Bubble Sort](https://www.youtube.com/watch?v=xli_FI7CuzA)
+  
+Make sure you understand all the runtimes in the chart at the bottom of [this link](https://www.geeksforgeeks.org/comparison-among-bubble-sort-selection-sort-and-insertion-sort/#).
+
+Finally, code up the solution to each approach [here](https://leetcode.com/problems/sort-an-array/).
 
 ## Binary Search
 
 Binary search is one of the most common algorithmic patterns to learn. The purpose of binary search is to find items faster in a sorted collection. By leveraging binary search, you are able to reduce your search time from O(n) to O(logn).
 
-Watch [this video]() to learn the technique.
+Watch [this video](https://www.youtube.com/watch?v=P3YID7liBug) to learn the technique.
 
-Then, code up your solution [here]().
+Then, code up your solution [here](https://leetcode.com/problems/binary-search/).
 
-Finally, apply this technique to solving [this problem]().
+Finally, apply this technique to solving [this problem](https://leetcode.com/problems/first-bad-version/).
 
 ## Sliding Window & Two Pointers
 
 Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n^2) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
 
-Watch this video to learn the approach and what types of problems benefit from this technique.
-
-Apply that same approach to solve this problem.
-
-Finally, see if you can figure how to solve this problem. At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
+1. Watch this video to learn the approach and what types of problems benefit from this technique.
+2. Apply that same approach to solve this problem.
+3. Finally, see if you can figure how to solve this problem. At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
 
