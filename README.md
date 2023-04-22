@@ -12,6 +12,7 @@ Make sure you understand all the runtimes in the chart at the bottom of [this li
 
 Finally, code up the solution to each approach [here]().
 
+
 ## Binary Search
 
 Binary search is one of the most common algorithmic patterns to learn. The purpose of binary search is to find items faster in a sorted collection. By leveraging binary search, you are able to reduce your search time from O(n) to O(logn).
