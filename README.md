@@ -12,19 +12,17 @@ Make sure you understand all the runtimes in the chart at the bottom of [this li
 
 Finally, code up the solution to each approach [here]().
 
-<br>
-
 ## Binary Search
 
 Binary search is one of the most common algorithmic patterns to learn. The purpose of binary search is to find items faster in a sorted collection. By leveraging binary search, you are able to reduce your search time from O(n) to O(logn).
 
-Watch this video to learn the technique.
+Watch [this video]() to learn the technique.
 
-Then, code up your solution here.
+Then, code up your solution [here]().
 
-Finally, apply this technique to solving this problem.
+Finally, apply this technique to solving [this problem]().
 
-Sliding Window & Two Pointers
+## Sliding Window & Two Pointers
 
 Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n^2) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
 
@@ -34,7 +32,7 @@ Apply that same approach to solve this problem.
 
 Finally, see if you can figure how to solve this problem. At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
-Merge Sort
+## Merge Sort
 
 Now, let's get into some of the more efficient O(nlogn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
 
@@ -44,7 +42,7 @@ If this is the first time you're seeing this, watch this video for a more in dep
 
 Finally, code up the solution here
 
-Quick Sort
+## Quick Sort
 
 Quicksort is another O(nlogn) relies on the concept of a "pivot".
 
@@ -53,6 +51,8 @@ Watch this video for an overview of quick sort.
 If this is the first time you're seeing this, watch this video for a more in depth walkthrough.
 
 Finally, code up the solution here.
+
+<br>
 
 # ⭕️ Node Data Structure
 
@@ -162,6 +162,8 @@ Watch this video for an overview of what balanced means and how to check if a bi
 
 Watch this video to understand why this concept of balanced is important.
 
+<br>
+
 #️⃣ Hashing
 
 Hashing is one of the most fundamental concepts that make many of our primitive data structures work (sets / hash sets, dictionaries / hash tables). This section gets into some of the gnarly details of the hash function. Just as you don't need to understand how a microwave works to be able to use it, it is entirely possible to be an engineer using these sets / dictionaries without an understanding of the underlying technique that makes it possible, but understanding it will push you to understand things at a deeper level as an engineer.
@@ -181,6 +183,8 @@ As you may know, the cost of lookup, insertion and deletion into a hash table is
 First, watch this video to understand what a resizing means.
 
 Then, watch this video understand what amortized runtime is.
+
+<br>
 
 🍱 Dynamic Programming
 
@@ -216,6 +220,8 @@ Watch this video to see a walkthrough of the approach
 
 See if you can use that solution to solve this slightly different problem.
 
+<br>
+
 📚 Heap
 
 Heaps are a very advanced data structure. In learning this data structure, you will want to learn 1) how the data structure works and 2) what types of problems it can solve. We actually recommend learning 2) before 1). There are 0 problems that can be solved with a heap that cannot be solved in a simpler way. Heaps a data structure that purely optimizes the runtime of an existing solution, oftentimes from O(n) to O(logn). Complete the following steps to learn about this data structure.
@@ -229,6 +235,8 @@ Watch this video first to get an overview of the technique.
 Now, watch this video for a detailed walkthrough. You may start at 39:00 if you understand the previous video.
 
 As usual, code up your solution here.
+
+<br>
 
 ፨ Graph
 
@@ -296,7 +304,9 @@ What is a negative weight cycle?
 
 How does Bellman-Ford deal detect a negative weight cycle?
 
-Practice
+<br>
+
+# Practice
 
 One of the tricky things about graph problems is that it's not always obvious when a problem is graph problem. This next problem reads like a normal problem but can be optimized using graph.  Read the prompt, and try to think about which of the previous algorithms is relevant.
 
