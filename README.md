@@ -1,22 +1,18 @@
 # 🗒 Array
 
-We assume that you already have exposure to the syntax of how to use arrays. On a fundamental level, the most important thing to understand about arrays is that they are fundamentally contiguous chunks of memory.
-
 ## N^2 runtime sorting algorithms
 
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
 
 [Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
+[Selection Sort]()
+[Bubble Sort]()
 
-Selection Sort
+Make sure you understand all the runtimes in the chart at the bottom of [this link]().
 
-Bubble Sort
+Finally, code up the solution to each approach [here]().
 
-Make sure you understand all the runtimes in the chart at the bottom of this link.
-
-Finally, code up the solution to each approach here.
-
-Binary Search
+## Binary Search
 
 Binary search is one of the most common algorithmic patterns to learn. The purpose of binary search is to find items faster in a sorted collection. By leveraging binary search, you are able to reduce your search time from O(n) to O(logn).
 
