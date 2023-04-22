@@ -76,10 +76,8 @@ Watch this video for an explanation of this approach. Note that this video refer
 
 ## Intersection of Two Lists
 Now, let's solve another classic problem with linked list — to find the intersection of two lists. You will be solving this problem on Leetcode.
-
-Watch this video for a basic solution to the problem.
-
-And this one for a more clever approach.
+1. Watch this video for a basic solution to the problem.
+2. And this one for a more clever approach.
 
 ## 🎄 Binary Tree
 Binary trees are the next most simple type of Node data structure. They are almost identical to linked lists except that instead of one next pointer, each Node in a binary tree points to two other Nodes. While this seems like a small change, it makes the data structure a lot more difficult to iterate over.
@@ -136,23 +134,18 @@ Hashing is one of the most fundamental concepts that make many of our primitive 
 At a high level, dynamic programming is really about breaking a large problem into smaller problems, storing the answers to subproblems and then using the answers to subproblems to solve larger problems.
 
 ## 1) Fibonacci Sequence
-Watch this video to learn about this most classic simple dynamic programming problem.
-
-Code up the solution here.
+1. Watch this video to learn about this most classic simple dynamic programming problem.
+2. Code up the solution here.
 
 ## 2) 0-1 Knapsack Problem
 This is one of the most classic dynamic programming problems. It is an optimization problem where you're trying to optimize some value while limited by some constraint. Make sure you take the time to fully understand this on a theoretical level.
-
-Watch this video for an overview of this problem.
-
-Watch this visualization to see a step by step walkthrough of the problem as well as a sample coding up of the solution.
+1. Watch this video for an overview of this problem.
+2. Watch this visualization to see a step by step walkthrough of the problem as well as a sample coding up of the solution.
 
 ## 3) Making Change
 This is another Dynamic Programming classic. This problem is often masked by some kind of story (like number of ways to get a football score), but actually comes up reasonably often in interviews. In this problem, you will figure out the minimum number of coins to make change adding up to a target value.
-
-Watch this video to see a walkthrough of this problem.
-
-Write up your own code [here]().
+1. Watch this video to see a walkthrough of this problem.
+2. Write up your own code [here]().
 
 ## 4) Subset Sum
 Subset sum is very similar to the coin change problem (adding a bunch of values to a target value). However, there are two key distinctions: you only have one of each value / "coin" and you just want to return true or false if the target sum can be made.
@@ -164,7 +157,11 @@ See if you can use that solution to solve this [slightly different problem]().
 <br>
 
 # 📚 Heap
-Heaps are a very advanced data structure. In learning this data structure, you will want to learn 1) how the data structure works and 2) what types of problems it can solve. We actually recommend learning 2) before 1). There are 0 problems that can be solved with a heap that cannot be solved in a simpler way. Heaps a data structure that purely optimizes the runtime of an existing solution, oftentimes from O(n) to O(logn). Complete the following steps to learn about this data structure.
+Heaps are a very advanced data structure. In learning this data structure, you will want to learn: 
+1. how the data structure works and 
+2.  what types of problems it can solve. 
+
+We actually recommend learning 2 before 1. There are 0 problems that can be solved with a heap that cannot be solved in a simpler way. Heaps a data structure that purely optimizes the runtime of an existing solution, oftentimes from O(n) to O(logn). Complete the following steps to learn about this data structure.
 
 1. Before understanding heap sort, watch this video to first learn the concept of a heap.
 2. Now to see a practical application of heap, let's learn about heap sort.
