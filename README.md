@@ -2,11 +2,11 @@
 
 We assume that you already have exposure to the syntax of how to use arrays. On a fundamental level, the most important thing to understand about arrays is that they are fundamentally contiguous chunks of memory.
 
-N^2 runtime sorting algorithms
+## N^2 runtime sorting algorithms
 
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
 
-Insertion Sort
+[Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 
 Selection Sort
 
