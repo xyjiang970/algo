@@ -12,6 +12,7 @@ Make sure you understand all the runtimes in the chart at the bottom of [this li
 
 Finally, code up the solution to each approach [here]().
 
+<br>
 
 ## Binary Search
 
