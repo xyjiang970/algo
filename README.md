@@ -54,7 +54,7 @@ If this is the first time you're seeing this, watch this video for a more in dep
 
 Finally, code up the solution here.
 
-⭕️ Node Data Structure
+# ⭕️ Node Data Structure
 
 We are about to learn about a couple of data structures that are based on a Node class. At first glance, it feels like these data structures have very little to do with day to day engineering. So, before we dive into these structures, let's learn about why learning these does actually help improve you underlying engineering skills.
 
