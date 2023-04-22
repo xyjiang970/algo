@@ -217,9 +217,9 @@ Heaps are a very advanced data structure. In learning this data structure, you w
 
 1. Before understanding heap sort, watch this video to first learn the concept of a heap.
 2. Now to see a practical application of heap, let's learn about heap sort.
-    a\. Watch this video first to get an overview of the technique.
-    b\. Now, watch this video for a detailed walkthrough. You may start at 39:00 if you understand the previous video.
-    c\. As usual, code up your solution here.
+    * a. Watch this video first to get an overview of the technique.
+    * b. Now, watch this video for a detailed walkthrough. You may start at 39:00 if you understand the previous video.
+    * c. As usual, code up your solution here.
 
 <br>
 
