@@ -3,11 +3,12 @@
 ## N^2 runtime sorting algorithms
 
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
-
-[Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
-[Selection Sort]()
-[Bubble Sort]()
-
+<ul>
+<li>[Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)</li>
+<li>[Selection Sort]()</li>
+<li>[Bubble Sort]()</li>
+</ul>
+  
 Make sure you understand all the runtimes in the chart at the bottom of [this link]().
 
 Finally, code up the solution to each approach [here]().
@@ -164,7 +165,7 @@ Watch this video to understand why this concept of balanced is important.
 
 <br>
 
-#️⃣ Hashing
+# #️⃣ Hashing
 
 Hashing is one of the most fundamental concepts that make many of our primitive data structures work (sets / hash sets, dictionaries / hash tables). This section gets into some of the gnarly details of the hash function. Just as you don't need to understand how a microwave works to be able to use it, it is entirely possible to be an engineer using these sets / dictionaries without an understanding of the underlying technique that makes it possible, but understanding it will push you to understand things at a deeper level as an engineer.
 
@@ -186,17 +187,17 @@ Then, watch this video understand what amortized runtime is.
 
 <br>
 
-🍱 Dynamic Programming
+# 🍱 Dynamic Programming
 
 At a high level, dynamic programming is really about breaking a large problem into smaller problems, storing the answers to subproblems and then using the answers to subproblems to solve larger problems.
 
-Fibonacci Sequence
+### 1) Fibonacci Sequence
 
 Watch this video to learn about this most classic simple dynamic programming problem.
 
 Code up the solution here.
 
-0-1 Knapsack Problem
+### 2) 0-1 Knapsack Problem
 
 This is one of the most classic dynamic programming problems. It is an optimization problem where you're trying to optimize some value while limited by some constraint. Make sure you take the time to fully understand this on a theoretical level.
 
@@ -204,25 +205,25 @@ Watch this video for an overview of this problem.
 
 Watch this visualization to see a step by step walkthrough of the problem as well as a sample coding up of the solution.
 
-Making Change
+### 3) Making Change
 
 This is another Dynamic Programming classic. This problem is often masked by some kind of story (like number of ways to get a football score), but actually comes up reasonably often in interviews. In this problem, you will figure out the minimum number of coins to make change adding up to a target value.
 
 Watch this video to see a walkthrough of this problem.
 
-Write up your own code here.
+Write up your own code [here]().
 
-Subset Sum
+### 4) Subset Sum
 
 Subset sum is very similar to the coin change problem (adding a bunch of values to a target value). However, there are two key distinctions: you only have one of each value / "coin" and you just want to return true or false if the target sum can be made.
 
-Watch this video to see a walkthrough of the approach
+Watch [this video]() to see a walkthrough of the approach
 
-See if you can use that solution to solve this slightly different problem.
+See if you can use that solution to solve this [slightly different problem]().
 
 <br>
 
-📚 Heap
+# 📚 Heap
 
 Heaps are a very advanced data structure. In learning this data structure, you will want to learn 1) how the data structure works and 2) what types of problems it can solve. We actually recommend learning 2) before 1). There are 0 problems that can be solved with a heap that cannot be solved in a simpler way. Heaps a data structure that purely optimizes the runtime of an existing solution, oftentimes from O(n) to O(logn). Complete the following steps to learn about this data structure.
 
@@ -238,7 +239,7 @@ As usual, code up your solution here.
 
 <br>
 
-፨ Graph
+# -፨ Graph
 
 Before we go into graphs, we'd like to add a word of caution that for 99% of people reading this, we do not recommend reading any further. Graph data structures almost never come up in real interviews (except at a select few companies), and the blocker for most people in technical interviews is not being fluent at the simple stuff, not lack of knowledge of graphs. That being said, if you're interested, feel free to progress further.
 
