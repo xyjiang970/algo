@@ -229,27 +229,20 @@ Before we go into graphs, we'd like to add a word of caution that for 99% of peo
 
 ## Intro to Graphs
 
-Before we dive deep into all of the different graph algorithms, we recommend gaining a high level understanding of all the concepts by reading through this doc. Spend no more than 1 hour reading this.
-
-Watch this video for an intro to the data structure. After you finish watching this, you should be able to answer these questions:
-
-What is a directed graph vs. an undirected graph?
-
-Is a tree a graph? Can you explain why?
-
-What is an adjacency matrix?
-
-What is a weighted graph?
-
-Watch this video to learn how to traverse a graph using BFS and DFS (yes, the same BFS and DFS as in trees!).
+1. Before we dive deep into all of the different graph algorithms, we recommend gaining a high level understanding of all the concepts by reading through this doc. Spend no more than 1 hour reading this.
+2. Watch this video for an intro to the data structure. After you finish watching this, you should be able to answer these questions:
+    - What is a directed graph vs. an undirected graph?
+    - Is a tree a graph? Can you explain why?
+    - What is an adjacency matrix?
+    - What is a weighted graph?
+3. Watch this video to learn how to traverse a graph using BFS and DFS (yes, the same BFS and DFS as in trees!).
 
 ## Topological Sort
 
 One of the most classic things you want to do with a graph data structure is topological sort. Often times, you build a graph data structure for the sole purpose of applying topological sort on it.
 
-Watch this video to get an overview of the algorithm.
-
-Then, read through this article to see another version of the code. Please copy and execute the code in your own environment.
+1. Watch this video to get an overview of the algorithm.
+2. Then, read through this article to see another version of the code. Please copy and execute the code in your own environment.
 
 ## Minimum Spanning Tree
 
@@ -257,11 +250,9 @@ Watch the additional video on AlgoExpert if needed. A minimum spanning tree is a
 
 First, we'll learn about Kruskal's algorithm.
 
-Before we can learn about Kruskal's algorithm, watch this video to learn about the concept of a Disjoint Set. Disjoint Set is a data structure that serves a very specific purpose. It is meant to make merging sets a very efficient operation.
-
-Then, watch this video about Kruskal's algorithm.
-
-Next, we're going to review another famous algorithm for finding MST called Prim's. By the end of these videos, make sure you understand and can explain the difference between Kruskal's and Prim's.
+1. Before we can learn about Kruskal's algorithm, watch this video to learn about the concept of a Disjoint Set. Disjoint Set is a data structure that serves a very specific purpose. It is meant to make merging sets a very efficient operation.
+2. Then, watch this video about Kruskal's algorithm.
+3. Next, we're going to review another famous algorithm for finding MST called Prim's. By the end of these videos, make sure you understand and can explain the difference between Kruskal's and Prim's.
 
 Start with this video to understand an overview of the algorithm.
 
@@ -272,10 +263,8 @@ Continue on to this video for a deep dive.
 Dijkstra's Algorithm is one of the most famous graph algorithms. Watch this video to understand a bit more about it. For this algorithm, it's more important to understand it theoretically rather than necessarily be able to code it. You can optionally skip the coding part of the above video, and just make sure you understand how to walk through it.
 
 After watching this video, you should be able to answer:
-
-What is the purpose of Dijkstra's algorithm? What problem does it solve?
-
-Why is it necessary to have a heap in the algorithm? What is the consequence if we don't have a heap? (hint: It has to do with runtime!)
+1. What is the purpose of Dijkstra's algorithm? What problem does it solve?
+2. Why is it necessary to have a heap in the algorithm? What is the consequence if we don't have a heap? (hint: It has to do with runtime!)
 
 ## Bellman-Ford
 
@@ -283,16 +272,13 @@ OK, let's do one more famous graph algorithm. This one is called Bellman-Ford. I
 
 When you're done with this algorithm, you should be able to answer the following:
 
-What is the advantage to using Bellman Ford algorithm over Dijkstra?
-
-What is a negative weight cycle?
-
-How does Bellman-Ford deal detect a negative weight cycle?
+1. What is the advantage to using Bellman Ford algorithm over Dijkstra?
+2. What is a negative weight cycle?
+3. How does Bellman-Ford deal detect a negative weight cycle?
 
 <br>
 
 # Practice
 
-One of the tricky things about graph problems is that it's not always obvious when a problem is graph problem. This next problem reads like a normal problem but can be optimized using graph.  Read the prompt, and try to think about which of the previous algorithms is relevant.
-
-A lot of graph based algorithms have a lot of practical real world applications. Here is a logistical problem, trying to find the cheapest flight within k stops, that relies on optimizing a path in a graph based data model. Which of the graph based algorithms might be helpful here?
+1. One of the tricky things about graph problems is that it's not always obvious when a problem is graph problem. This next problem reads like a normal problem but can be optimized using graph.  Read the prompt, and try to think about which of the previous algorithms is relevant.
+2. A lot of graph based algorithms have a lot of practical real world applications. Here is a logistical problem, trying to find the cheapest flight within k stops, that relies on optimizing a path in a graph based data model. Which of the graph based algorithms might be helpful here?
