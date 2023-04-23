@@ -77,7 +77,7 @@ Binary trees are the next most simple type of Node data structure. They are almo
 2. Learn two different ways to traverse through a binary tree: BFS and DFS.
     - Read [this article]() to get an overview of the techniques.
     - Watch [this video]() for a verbal explanation of the approaches.
-    - Practice applying this technique by solving the problem here.
+    - Practice applying this technique by solving the problem [here]().
 3. If you are relatively new to the Binary Tree data structure, do the following problems as practice:
     - Read [this article]() to learn how to count the nodes in a binary tree.
     - Read [this article]() to learn how to get the height of a binary tree. Watch this [video]() for an explanation of the same algorithm.
@@ -89,9 +89,9 @@ Binary trees are the next most simple type of Node data structure. They are almo
     - Practice adding a new element to a binary search tree [here]().
 2. Watch [this video]() to learn how to search in a binary search tree.
 3. If you are relatively new to the Binary Search Tree data structure, do the following problems as practice:
-    - Find the minimum and maximum value in a Binary Search Tree here.
-    - Check if an element exists in a Binary Search Tree here.
-    - Delete a leaf node in a Binary Search Tree here.
+    - Find the minimum and maximum value in a Binary Search Tree [here]().
+    - Check if an element exists in a Binary Search Tree [here]().
+    - Delete a leaf node in a Binary Search Tree [here]().
     - Delete a leaf node with just one child in a Binary Search Tree [here]().
     - Delete a leaf node with two children in a Binary Search Tree [here]().
 4. Now, consider the problem you solved above where you found the maximum value in a binary tree. How would you solve this problem in a binary search tree? This solution should actually be much easier – think about why!
