@@ -1,6 +1,6 @@
 # 🗒 Array
 
-## N^2 runtime sorting algorithms
+## N^2 Runtime Sorting Algorithms
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
 - [Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 - [Selection Sort](https://www.youtube.com/watch?v=g-PGLbMth_g&feature=youtu.be)
