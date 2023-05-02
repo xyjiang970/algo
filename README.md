@@ -24,7 +24,7 @@ Sliding window and two pointer techniques are names for a specific type of algor
 3. Finally, see if you can figure how to solve [this problem](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/). At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
-Now, let's get into some of the more efficient O(nlogn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
+Now, let's get into some of the more efficient O(nlogn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick, and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
 1. Watch [this video](https://www.youtube.com/watch?v=4VqmGXwpLqc) for an overview of merge sort.
 2. If this is the first time you're seeing this, [watch this video](https://www.youtube.com/watch?v=7h1s2SojIRw) for a more in depth walkthrough.
 3. Finally, code up the solution [here](https://leetcode.com/problems/sort-an-array/).
@@ -112,7 +112,7 @@ Hashing is one of the most fundamental concepts that make many of our primitive 
 1. Watch [this video](https://www.youtube.com/watch?v=KyUTuwz_b7Q) for a review of the dictionary / hash table data structure.
 2. Hash functions are the core innovation that make hash tables possible, but not all hash functions are created equal. Watch [this video](https://www.youtube.com/watch?v=4ZJQ6ehmAsg) to get an understanding of what makes a good hash function.
 3. It is possible for a hash function to output the same value for two different keys. That, in the context of a hash table, leads to a collision. Watch [this video](https://www.youtube.com/watch?v=zeMa9sg-VJM) to understand two of the most common strategies.
-4. Watch this video to learn a less common strategy called quadratic probing.
+4. Watch [this video](https://www.youtube.com/watch?v=dxrLtf-Fybk) to learn a less common strategy called quadratic probing.
 5. As you may know, the cost of lookup, insertion and deletion into a hash table is considered to be O(1). However, when we run out of space in a hash table, we have to do an expensive O(n) operation. So, how can the insertion be considered to be O(1)?
     1. First, watch [this video](https://www.youtube.com/watch?v=AA0KuKV3ARU) to understand what a resizing means.
     2. Then, watch [this video](https://www.youtube.com/watch?v=MTl8djZFWE0) understand what amortized runtime is.
