@@ -16,13 +16,14 @@ Binary search is one of the most common algorithmic patterns to learn. The purpo
 2. Then, code up your solution [here](https://leetcode.com/problems/binary-search/).
     * Solution [here](/leetcode/easy/704.md).
 3. Finally, apply this technique to solving [this problem](https://leetcode.com/problems/first-bad-version/).
-    * Solution [here](https://github.com/xyjiang970/algo/blob/main/leetcode/easy/278.md).
+    * Solution [here](leetcode/easy/278.md).
 
 ## Sliding Window & Two Pointers
 Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n^2) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
 
 1. Watch [this video](https://www.youtube.com/watch?v=MK-NZ4hN7rs) to learn the approach and what types of problems benefit from this technique.
 2. Apply that same approach to solve [this problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/).
+    * Solution [here](/leetcode/medium/3.md)
 3. Finally, see if you can figure how to solve [this problem](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/). At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
