@@ -1,7 +1,7 @@
 # 🗒 Array
 
 ## N<sup>2</sup> Runtime Sorting Algorithms
-First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
+First, let's make sure you understand all the common N<sup>2</sup> runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
 - [Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 - [Selection Sort](https://www.youtube.com/watch?v=g-PGLbMth_g&feature=youtu.be)
 - [Bubble Sort](https://www.youtube.com/watch?v=xli_FI7CuzA)
@@ -19,7 +19,7 @@ Binary search is one of the most common algorithmic patterns to learn. The purpo
     * Solution [here](leetcode/easy/278.md).
 
 ## Sliding Window & Two Pointers
-Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n^2) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
+Sliding window and two pointer techniques are names for a specific type of algorithm. When applied properly, these techniques are intended to reduce a nested loop O(n<sup>2</sup>) approach to an O(n) algorithm by reducing the need for the nested loop. To do this, we need to store extra information that is updated as we traverse the array using a single pointer.
 
 1. Watch [this video](https://www.youtube.com/watch?v=MK-NZ4hN7rs) to learn the approach and what types of problems benefit from this technique.
 2. Apply that same approach to solve [this problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/).
