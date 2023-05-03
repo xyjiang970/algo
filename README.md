@@ -1,6 +1,6 @@
 # 🗒 Array
 
-## N^2 Runtime Sorting Algorithms
+## N<sup>2</sup> Runtime Sorting Algorithms
 First, let's make sure you understand all the common N^2 runtime sorting algorithms: Insertion Sort, Selection Sort and Bubble Sort. Watch these videos for a review of each:
 - [Insertion Sort](https://www.youtube.com/watch?v=JU767SDMDvA)
 - [Selection Sort](https://www.youtube.com/watch?v=g-PGLbMth_g&feature=youtu.be)
@@ -27,13 +27,13 @@ Sliding window and two pointer techniques are names for a specific type of algor
 3. Finally, see if you can figure how to solve [this problem](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/). At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
-Now, let's get into some of the more efficient O(nlogn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick, and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
+Now, let's get into some of the more efficient O(n⋅logn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick, and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
 1. Watch [this video](https://www.youtube.com/watch?v=4VqmGXwpLqc) for an overview of merge sort.
 2. If this is the first time you're seeing this, [watch this video](https://www.youtube.com/watch?v=7h1s2SojIRw) for a more in depth walkthrough.
 3. Finally, code up the solution [here](https://leetcode.com/problems/sort-an-array/).
 
 ## Quick Sort
-Quicksort is another O(nlogn) relies on the concept of a "pivot".
+Quicksort is another O(n⋅logn) relies on the concept of a "pivot".
 1. Watch [this video](https://www.youtube.com/watch?v=Hoixgm4-P4M) for an overview of quick sort.
 3. If this is the first time you're seeing this, watch [this video](https://www.youtube.com/watch?v=7h1s2SojIRw) for a more in depth walkthrough.
 3. Finally, code up the solution [here](https://leetcode.com/problems/sort-an-array/).
