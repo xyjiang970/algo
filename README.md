@@ -23,7 +23,7 @@ Sliding window and two pointer techniques are names for a specific type of algor
 
 1. Watch [this video](https://www.youtube.com/watch?v=MK-NZ4hN7rs) to learn the approach and what types of problems benefit from this technique.
 2. Apply that same approach to solve [this problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/).
-    * Solution [here](/leetcode/medium/3.md)
+    * Solution [here](/leetcode/medium/3.md).
 3. Finally, see if you can figure how to solve [this problem](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/). At first glance, this problem may not seem like it has to do with sliding window at all. Can you figure out how it does?
 
 ## Merge Sort
