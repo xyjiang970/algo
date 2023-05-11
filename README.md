@@ -29,7 +29,7 @@ Sliding window and two pointer techniques are names for a specific type of algor
 ## Merge Sort
 Now, let's get into some of the more efficient O(n⋅logn) sort algorithms. These algorithms are significantly harder to follow than the previous algorithms. We recommend learning only one out of merge, quick, and heap unless you've exhausted the rest of this guide. Merge sort is a good one to learn because it also forces you to have a solid grasp of recursion.
 1. Watch [this video](https://www.youtube.com/watch?v=4VqmGXwpLqc) for an overview of merge sort.
-2. If this is the first time you're seeing this, [watch this video](https://www.youtube.com/watch?v=7h1s2SojIRw) for a more in depth walkthrough.
+2. If this is the first time you're seeing this, [watch this video](https://www.youtube.com/watch?v=jlHkDBEumP0) for a more in depth walkthrough.
 3. Finally, code up the solution [here](https://leetcode.com/problems/sort-an-array/).
 
 ## Quick Sort
